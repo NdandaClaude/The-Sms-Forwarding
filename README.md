@@ -91,13 +91,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ## Installation
 
 Clonez le projet : Téléchargez l'application et configurez l'API.
+
 Installez l'APK : Installez le fichier APK sur votre téléphone.
+
 Configurez l'URL de l'API : Spécifiez l'URL de l'API dans les paramètres de l'application pour que les messages soient envoyés au bon serveur.
 
 ## Utilisation
 
 Votes publics : Récupération de votes envoyés par SMS.
+
 Enquêtes et Sondages : Collecte des réponses d'enquête envoyées par SMS pour les analyser en temps réel.
+
 Remarque : Cette application est un outil neutre, dont l’éthique et l’utilisation relèvent de la responsabilité de l'utilisateur.
 
 ## Sécurité et Confidentialité
