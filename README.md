@@ -40,8 +40,8 @@ Pour un bloc de données JSON :
 
 ```json
 {
-    "sender": "681297063",
-    "message": "MUT12"
+    "sender": "xxxxxxxxxxx",
+    "message": "message"
 }
 ```
 
